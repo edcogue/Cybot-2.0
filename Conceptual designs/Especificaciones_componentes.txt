@@ -1,0 +1,4 @@
+2x Led antena (3.3V) (control desde micro)
+2x Motor CC (5V)
+2x Emisor sonar (color gris)
+2x Receptor sonar (color verde) (5V)
